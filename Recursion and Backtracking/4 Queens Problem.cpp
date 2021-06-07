@@ -15,7 +15,7 @@
 #define MOD 1000000007
 using namespace std;
 
-// 4 queen's problem
+// Basic 4 queen's problem
 // 4x4 grid can be represented using a 1 D array
 int grid[4];
 bool rowAttack[4] = {0};
